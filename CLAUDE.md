@@ -1,19 +1,21 @@
 # Claude Audit Log
 
 **Audited:** 2026-02-26
-**Bucket:** [ARCHIVE]
+**Bucket:** [SALVAGE]
+**Status:** Retired
 
 ## What This Was
-Standalone app or experiment
+Epicor to LLM — bridge Epicor ERP data to language models
 
 ## Job To Be Done
-General purpose / unclear
+Extract and format Epicor data for LLM consumption
 
 ## Agent Replacement
 N/A
 
 ## What To Extract
-N/A
+ERP integration code, data transformation schemas
 
 ## Claude's Notes
-- No README found — classified by name only.
+- No README existed. Classified by repo name only.
+- Salvage value: ERP integration code, data transformation schemas
